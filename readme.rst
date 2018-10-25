@@ -15,6 +15,12 @@ https://github.com/kat-co/concurrency-in-go-src
 正誤表
 -------------
 
+本書の正誤情報は以下のページで公開しています。
+
+https://github.com/oreilly-japan/concurrency-in-go-support/wiki/errata
+
+本ページに掲載されていない誤植など間違いを見つけた方は、[japan@oreilly.co.jp](mailto:japan@oreilly.co.jp)までメールでお知らせいただくか、本レポジトリのIssueまでご連絡ください。
+
 
 本書に関するご質問
 ------------------------
